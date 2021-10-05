@@ -4,7 +4,7 @@
 - [**Font Awesome**](https://fontawesome.com/) 
 
 - [The Movie Database ](https://www.themoviedb.org/?language=pt-BR)
-- 
+
 <span align="center">
   <h2>Pegue a pipoca e o refri e bora assistir! 🍿🧃📼 </h2>
 </span>
